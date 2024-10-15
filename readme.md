@@ -1,0 +1,1 @@
+Loading a data set and creating various visualization such as Bar charts,Scatter plots,Heatmaps to analyze the data using Matplotlib and Seaborn for plotting insights based on the visualizations.
